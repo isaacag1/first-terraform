@@ -22,4 +22,5 @@ Deploy a custom website on AWS EC2/VPC using terraform
 
 # Create Ubuntu server and install/enable apache2
 
+![IMG_0896](https://github.com/litocs25/first-terraform/assets/113814098/5c4be1d6-2975-447a-9677-a2d47f24d871)
 
