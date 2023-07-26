@@ -1,4 +1,4 @@
-This is a step-by-step process to deploy a custom website on AWS using terraform
+Deploy a custom website on AWS EC2/VPC using terraform
 
 # Define the required provider and its version
 
