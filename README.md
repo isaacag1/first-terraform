@@ -23,8 +23,3 @@ This is a step-by-step process to deploy a custom website on AWS using terraform
 # Create Ubuntu server and install/enable apache2
 
 
-                
-                
-  }
-}
-
